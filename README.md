@@ -56,6 +56,9 @@ https://www.kaggle.com/datasets
 - Optimize marketing costs through data-driven decision making.
 
 ---
+## Power BI Dashboard
+
+![Power BI Dashboard](dashboard.png)
 
 ## 👩‍💻 Author
 **Nahla Hefny**
