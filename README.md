@@ -58,7 +58,7 @@ https://www.kaggle.com/datasets
 ---
 ## Power BI Dashboard
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](dashboard.png.jpeg)
 
 ## 👩‍💻 Author
 **Nahla Hefny**
